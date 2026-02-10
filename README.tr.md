@@ -70,4 +70,4 @@ Bu araç yalnızca eğitim ve araştırma amaçlıdır. Yazar, bu aracın kötü
 
 ## Lisans
 
-MIT Lisansı altında lisanslanmıştır.
+[MIT Lisansı](LICENSE) altında lisanslanmıştır.

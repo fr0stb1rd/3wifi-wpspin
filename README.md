@@ -70,4 +70,4 @@ This tool is provided for educational and research purposes only. The author doe
 
 ## License
 
-Licensed under the MIT License.
+Licensed under the [MIT License](LICENSE).
